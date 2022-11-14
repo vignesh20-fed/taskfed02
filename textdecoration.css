@@ -1,0 +1,82 @@
+h1{ text-align:center;
+	     text-decoration:underline;
+	  }
+	h2{
+        text-decoration: overline;
+      }
+    h3{
+        text-decoration: line-through;
+      }
+
+    h4{
+        text-decoration: underline;
+      }
+	p.text1{
+	    text-decoration: overline underline;
+		   }
+	
+	.a {
+        text-decoration: overline;
+		text-decoration-color:red;
+       }
+
+   	.b {
+        text-decoration: line-through;
+    	text-decoration-color:orange;
+       }
+    .c{
+        text-decoration: underline;
+        text-decoration-color:yellow;
+      }
+    p.text2{
+        text-decoration: overline underline;
+	    text-decoration-color:green;
+      }
+				
+	#t1{
+        text-decoration-line:underline;
+        text-decoration-style:single;
+        }		
+    #t2{
+        text-decoration-line:underline;
+        text-decoration-style:double;
+        }		
+    #t3{
+        text-decoration-line:underline;
+        text-decoration-style:dotted;
+        }		
+    #t4{
+        text-decoration-line:underline;
+        text-decoration-style:dashed;
+        }
+    #t5{
+        text-decoration-line:underline;
+        text-decoration-style:wavy;
+        }				
+    #t6{
+        text-decoration-line:underline;
+        text-decoration-style:wavy;
+		text-decoration-color:red;
+        }	
+    .t1{
+        text-decoration-line:underline;
+		text-decoration-thickness:5px;
+		}
+    .t2{
+        text-decoration-line:underline;
+		text-decoration-thickness:10px;
+		}
+	.t3{
+        text-decoration-line:underline;
+		text-decoration-thickness:15px;
+		}
+	.t4{
+        text-decoration-line:underline;
+		text-decoration-thickness:20px;
+		}
+    .s1{
+	   text-decoration:underline red double 5px
+	   }
+	.s2{
+	   text-decoration:underline blue wavy 1px
+	   }
